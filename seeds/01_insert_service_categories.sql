@@ -1,10 +1,11 @@
-INSERT INTO service_categories (category_name) VALUES
-	('Engine'),
-	('Brakes'),
-	('Tyres'),
-	('Transmission'),
-	('Suspension'),
-	('Exhaust'),
-	('Electrical'),
-	('Bodywork'),
-	('General Maintenance');
+-- Single and multiple row insert 
+INSERT INTO positions (position_name) 
+VALUES ("Lube Technician");
+
+INSERT INTO positions (position_name) 
+VALUES 
+	("Mechanic"),
+    ("Master Mechanic"),
+    ("Collision Repair"),
+    ("Heavy Equipment"),
+    ("Manager");
