@@ -1,0 +1,6 @@
+position_id,first_name,last_name,phone_number,email,pay_type,pay_rate
+1,Tom,Blake,+1-555-0201,tom.blake@shop.com,hourly,18.00
+2,Anna,Perez,+1-555-0202,anna.perez@shop.com,hourly,22.50
+3,Victor,Marsh,+1-555-0203,victor.m@shop.com,salary,55000.00
+4,Lena,Cross,+1-555-0204,lena.cross@shop.com,hourly,24.00
+6,Frank,Stone,+1-555-0205,frank.stone@shop.com,salary,65000.00

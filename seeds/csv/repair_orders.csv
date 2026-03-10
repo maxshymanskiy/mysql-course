@@ -1,0 +1,6 @@
+client_id,vehicle_id,order_status,payment_status,due_date,total_amount,notes
+1,1,completed,paid,2024-03-10,320.00,Oil change and brake inspection
+2,2,in_progress,unpaid,2024-03-15,850.00,Suspension overhaul
+3,3,pending,unpaid,2024-03-20,\N,Engine noise diagnosis
+4,4,completed,partial,2024-03-08,430.00,Tyre replacement all four
+5,5,on_hold,unpaid,2024-03-25,\N,Waiting for client confirmation
