@@ -4,3 +4,17 @@ order_id,category_id,order_description,mechanic_id,actual_hours,price
 2,5,Front and rear shock absorber replacement,3,3.50,280.00
 3,1,Engine noise diagnostic — cylinder check,3,2.00,120.00
 4,3,Removal and fitting of four tyres with balancing,2,1.50,90.00
+6,2,Front brake pad and disc replacement,1,2.00,150.00
+7,9,Full service oil and filters,2,1.50,85.00
+7,1,Timing belt replacement,4,3.00,250.00
+8,7,AC refrigerant recharge and leak test,3,1.00,95.00
+9,3,Four wheel alignment check and adjustment,1,1.25,110.00
+10,7,Battery diagnostic and replacement,2,0.75,85.00
+11,4,Clutch disc and pressure plate replacement,4,4.50,420.00
+13,4,Automatic transmission fluid change,3,2.00,140.00
+14,1,Engine diagnostic scan,2,1.00,75.00
+14,1,Spark plug replacement and ignition coil check,4,2.50,180.00
+15,9,Oil and oil filter change,1,0.50,45.00
+16,6,Exhaust manifold and pipe repair,3,3.50,380.00
+17,7,Full electrical system diagnostic,4,2.50,195.00
+18,2,Complete brake system service all wheels,3,5.00,650.00

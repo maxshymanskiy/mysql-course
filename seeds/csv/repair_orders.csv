@@ -4,3 +4,18 @@ client_id,vehicle_id,order_status,payment_status,due_date,total_amount,notes
 3,3,pending,unpaid,2024-03-20,\N,Engine noise diagnosis
 4,4,completed,partial,2024-03-08,430.00,Tyre replacement all four
 5,5,on_hold,unpaid,2024-03-25,\N,Waiting for client confirmation
+6,6,completed,paid,2024-03-12,275.50,Brake pad replacement
+7,7,completed,paid,2024-03-11,450.00,Full service and timing belt replacement
+8,8,in_progress,unpaid,2024-03-18,\N,Air conditioning repair
+9,9,completed,paid,2024-03-09,195.00,Wheel alignment and balancing
+10,10,pending,unpaid,2024-03-22,\N,Battery replacement needed
+11,11,completed,partial,2024-03-13,680.00,Clutch replacement
+12,12,cancelled,unpaid,2024-03-14,\N,Client changed mind
+13,13,in_progress,unpaid,2024-03-19,\N,Transmission service
+14,14,completed,paid,2024-03-07,850.00,Engine diagnostic and spark plug replacement
+6,15,completed,paid,2024-03-16,320.00,Oil and filter service
+15,16,on_hold,unpaid,2024-03-26,\N,Waiting for parts delivery
+16,17,completed,paid,2024-03-05,540.00,Exhaust system repair
+17,18,in_progress,unpaid,2024-03-21,\N,Electrical system diagnostic
+18,19,completed,paid,2024-03-06,1250.00,Complete brake system overhaul
+19,19,pending,unpaid,2024-03-23,\N,Annual inspection required
