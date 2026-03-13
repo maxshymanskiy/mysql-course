@@ -39,3 +39,8 @@ FROM repair_orders AS ro
 INNER JOIN repair_order_parts AS rop 
 	ON ro.order_id = rop.order_id
 WHERE rop.unit_price BETWEEN 50 AND 150;
+
+SELECT client_id, first_name, last_name
+FROM clients
+WHERE first_name LIKE '%a'
+	OR last_name LIKE "a%";
